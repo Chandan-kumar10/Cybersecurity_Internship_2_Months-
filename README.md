@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Internship (2 Months)
+# 🛡️  Digisuraksha Parhari Foundation Cybersecurity Internship (2 Months)
 
 This repository contains my complete work and learning logs for the **Cybersecurity Internship (July–September 2025)**. It includes all training materials, weekly tasks, attendance, and project logs for verification and learning documentation.
 
