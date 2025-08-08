@@ -1,1 +1,27 @@
+🔍 Testing: ɡoogle.com
+🔧 Normalized: google.com
+⚠️ Suspicious! Looks like 'google.com' (score: 1.00)
 
+🔍 Testing: facebооk.com
+🔧 Normalized: facebook.com
+⚠️ Suspicious! Looks like 'facebook.com' (score: 1.00)
+
+🔍 Testing: arnazon.com
+🔧 Normalized: amazon.com
+⚠️ Suspicious! Looks like 'amazon.com' (score: 0.94)
+
+🔍 Testing: micrоsоft.com
+🔧 Normalized: microsoft.com
+⚠️ Suspicious! Looks like 'microsoft.com' (score: 0.97)
+
+🔍 Testing: y0utube.com
+🔧 Normalized: y0utube.com
+✅ Looks safe.
+
+🔍 Testing: wikιpedia.org
+🔧 Normalized: wikipedia.org
+⚠️ Suspicious! Looks like 'wikipedia.org' (score: 0.97)
+
+🔍 Testing: instаgram.com
+🔧 Normalized: instagram.com
+⚠️ Suspicious! Looks like 'instagram.com' (score: 1.00)
