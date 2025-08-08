@@ -1,1 +1,9 @@
+google.com
+facebook.com
+amazon.com
+paypal.com
+microsoft.com
+youtube.com
+instagram.com
+wikipedia.org
 
